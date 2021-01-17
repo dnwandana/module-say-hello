@@ -2,5 +2,5 @@ package hello
 
 // SayHello function
 func SayHello() string {
-	return "Hello"
+	return "Hello World!"
 }
